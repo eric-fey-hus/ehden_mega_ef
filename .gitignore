@@ -1,0 +1,12 @@
+# Docs
+.ppt
+.pptx
+.doc
+.docx
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# IPython
+profile_default/
+ipython_config.py
